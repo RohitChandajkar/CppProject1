@@ -1,4 +1,4 @@
-Geometric Console Application
+**Geometric Console Application**
 Overview
 The objective of this project is to create a console application that computes and displays the area and perimeter of various 2D geometric shapes such as Rectangle, Triangle, Circle, and Ellipse. The project is structured with a modular approach, utilizing separate header (.h) and implementation (.cpp) files for each class representing a geometric shape.
 
